@@ -1,5 +1,5 @@
 id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country,iso_region,municipality,scheduled_service,gps_code,iata_code,local_code,home_link,wikipedia_link,keywords,score,last_updated
-5212,OJAI,large_airport,Queen Alia International Airport - „ÿ«— «·„·ﬂ… ⁄·Ì« «·œÊ·Ì,31.72260094,35.99319839,2395,AS,JO,JO-AM,Amman,1,OJAI,AMM,,,http://en.wikipedia.org/wiki/Queen_Alia_International_Airport,,1475,2010-09-02T22:02:57+00:00
+5212,OJAI,large_airport,Queen Alia International Airport,31.72260094,35.99319839,2395,AS,JO,JO-AM,Amman,1,OJAI,AMM,,,http://en.wikipedia.org/wiki/Queen_Alia_International_Airport,,1475,2010-09-02T22:02:57+00:00
 5214,OJAQ,medium_airport,Aqaba King Hussein International Airport,29.61160088,35.01810074,175,AS,JO,JO-AQ,Aqaba,1,OJAQ,AQJ,,,http://en.wikipedia.org/wiki/Aqaba_Airport,,1050,2008-12-19T20:10:42+00:00
 5213,OJAM,medium_airport,Amman-Marka International Airport,31.97270012,35.99160004,2555,AS,JO,JO-AM,Amman,1,OJAM,ADJ,,,http://en.wikipedia.org/wiki/Marka_Airport,King Abdullah Air Base,1050,2008-12-19T20:10:40+00:00
 3354,OJ40,medium_airport,Muwaffaq Salti Air Base,31.82559967,36.7820015,1706,AS,JO,JO-AZ,Al Azraq,0,OJ40,,OJ40,,http://en.wikipedia.org/wiki/Muwaffaq_Salti_Air_Base,"Shaheed Mwaffaq, Al Shaheed Muwaffaq Salti Air Base",250,2015-01-23T10:11:56+00:00
